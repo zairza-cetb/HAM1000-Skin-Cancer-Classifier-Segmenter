@@ -28,3 +28,14 @@ There are various types of skin cancers in the realm of pigmented lesions are:
 - melanocytic nevi
 - vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)
 
+They are structurally really similar and causes simple irritation with mild to severe pain. We aim at developing models which can be used by different platforms which will takes images of the skin and predict if the growth in skin is cancerous or healthy, and also classify the type of cancer it is. 
+
+## Progress so far
+
+### Data
+
+The Data that we have used here is like the MNIST for Skin cancer classification. It contains dermatoscopic images from different populations, acquired and stored by different modalities. The final dataset consists of 10015 dermatoscopic images which can serve as a training set for academic machine learning purposes.
+
+- The original Challenge - [ISIC 2018 Challenge](https://challenge.isic-archive.com/landing/2018/)
+- The Original way to access it - [Havard's Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+- Kaggle Link to Access it - [MNIST : HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
