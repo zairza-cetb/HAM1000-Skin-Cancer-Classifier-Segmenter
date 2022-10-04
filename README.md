@@ -97,3 +97,10 @@ EfficientNet B0
 
 VGG16
 <p align="center"><img alt="Accuracy = 57%" src="./Result Analysis/vgg16 classification report.png"></p>
+
+## Future Work
+- Instead of undersampling we must use some synthetic data generation techniques to increase the sample number of minority class.
+- We have to use some sort of feature extraction technique before using NN based feature extraction on it.
+- The NAS must be deployed with proper space to function and reach it's best architecture
+- Different types of architectures must be tried after studying NAS results or by some trial and error method.
+- After we are able to classify the data properly we must attempt the segmentation model as well.
