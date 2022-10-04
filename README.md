@@ -1,3 +1,4 @@
+<p align="center"><img alt="logo" width="150px" src="./src/images/AI-PNG-Picture.png"></p>
 <h1 align="center">HAM10000: Skin Cancer MNIST</h1>
 
 ## Table of Contents
