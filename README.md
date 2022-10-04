@@ -18,6 +18,7 @@ It aims at building machine learning based model which will predict the type of 
 ## Introduction
 
 Skin problems are really frequent in nature hence easily ignored but sometimes they are fatal in nature and become cancerous in nature and goes undiagnosed leading to permanent disfigurement and even death. Skin cancer, the abnormal growth of skin cells, most often develops on skin exposed to the sun. But this common form of cancer can also ocur on aeas of your skin not ordinarily exposed to sunlight.
+
 There are various types of skin cancers in the realm of pigmented lesions are:
 - Actinic keratoses and intraepithelial carcinoma / Bowen's disease
 - basal cell carcinoma
